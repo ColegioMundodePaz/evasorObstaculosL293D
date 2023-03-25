@@ -5,7 +5,7 @@ En esta práctica construiremos un carro evasor de obstáculos utilizando un sen
 * 1 x Arduino Uno
 * 1 x Módulo HC-SR04
 * 1 x CI L293D
-* 1 x Chasis carro de con motores DC
+* 1 x Chasis carro con motores DC
 * Cables Dupont o puentes para protoboard
 
 ## Instrucciones
